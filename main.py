@@ -16,7 +16,7 @@ db = client["Spidybotz"]
 user_collection = db["Spidybotz"]  
 
 
-OWNER = 7114926879 
+OWNER = 6477656662
 API_ID = os.getenv("API_ID", "")
 API_HASH = os.getenv("API_HASH", "")
 TOKEN = os.environ["BOT_TOKEN"]
